@@ -1,4 +1,5 @@
 mkdir my-git-project
+i changed for merge conflicts
 cd my-git-project
 git init
 echo "Hello, Git!" > hello.txt
