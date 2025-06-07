@@ -1,0 +1,7 @@
+mkdir my-git-project
+cd my-git-project
+git init
+echo "Hello, Git!" > hello.txt
+git add hello.txt
+git commit -m "Initial commit with hello.txt"
+
